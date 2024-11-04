@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LoginRegisterServerApplication<LoginRegisterServer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.LoginRegister.example.LoginRegisterServerApplication",
+            "projectName": "LoginRegisterServer",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
